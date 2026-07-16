@@ -1,0 +1,181 @@
+ID_Clinica,Nome_Clinica,Regiao,Volume_Cirurgias_Mes,Lentes_Premium_Pct,Equipamento_Laser,Faturamento_Consumiveis_Anual,Ultima_Visita_Representante
+CLIN-1000, Clinica Oftalmologica Clínica  ,SP,142.0,28.8,J&J Catalys,613230,2025/03/22
+CLIN-1001, Instituto de Olhos Laser  ,MG,113.0,55.1,jj catalys,R$ 539.501,2026/01/18
+CLIN-1002, Clinica Oftalmologica Sul  ,DF,149.0,38.8,Alcon LenSx,848903,22/11/2026
+CLIN-1003, Hospital de Olhos Horizonte  ,SP,188.0,41.2,zeiss visumax,R$ 158.582,2025/06/21
+CLIN-1004, clinica oftalmologica laser  ,DF,109.0,19.7,zeiss visumax,,14/12/2026
+CLIN-1005, CENTRO DE CIRURGIA REFRATIVA ASSOCIADOS  ,SC,109.0,40.8,Zeiss VisuMax 800,847809,2026-09-16
+CLIN-1006, oftalmo clinic clínica  ,SP,191.0,53.4,none,824048,05/12/2026
+CLIN-1007, Oftalmo Clinic São Paulo  ,DF,154.0,39.3,Zeiss VisuMax 800,584271,2026/07/18
+CLIN-1108, Instituto de Olhos Luz  ,RJ,98.0,25.3,none,489997,2025/04/11
+CLIN-1009, Clinica Oftalmologica Horizonte  ,RJ,144.0,42.6,J&J STAR S4 IR,R$ 289.965,
+CLIN-1010, Hospital de Olhos São Paulo  ,SP,99.0,36.7,Alcon LenSx,R$ 617.651,2026-09-24
+CLIN-1011, Centro de Cirurgia Refrativa Sul  ,rs,99.0,21.4,jj catalys,189272,
+CLIN-1012, Centro de Cirurgia Refrativa São Paulo  ,PR,130.0,39.0,Nenhum,229393,2026-01-28
+CLIN-1013, Hospital de Olhos Sul  ,BA,33.0,,J&J STAR S4 IR,683652,2026/12/22
+CLIN-1014, Instituto de Olhos Horizonte  ,PR,42.0,59.7,Zeiss MEL 90,R$ 445.217,2025-06-10
+CLIN-1015, Clinica Oftalmologica Horizonte  ,BA,94.0,61.7,none,507821,2025/12/04
+CLIN-1016, oftalmo clinic visão  ,DF,74.0,,,836409,2026/04/23
+CLIN-1017, Instituto de Olhos Luz  ,BA,134.0,46.8,Zeiss MEL 90,R$ 757.397,18/04/2026
+CLIN-1018, Oftalmo Clinic Sul  ,SP,79.0,61.6,,,21/09/2026
+CLIN-1019, Instituto de Olhos Clínica  ,RJ,56.0,72.5,alcon lensx,432932,2026-08-15
+CLIN-1020, Instituto de Olhos Laser  ,PR,185.0,23.9,zeiss visumax,377546,07/06/2026
+CLIN-1021, Hospital de Olhos Clínica  ,RS,109.0,27%,,150261,2025-04-24
+CLIN-1022, Clinica Oftalmologica Sul  ,MG,123.0,24.2,zeiss visumax,109332,
+CLIN-1007, oftalmo clinic associados  ,RJ,55.0,19.5,alcon lensx,463888,14/12/2026
+CLIN-1024, Oftalmo Clinic Associados  ,BA,95.0,52.7,,R$ 713.242,2026-07-19
+CLIN-1025, Instituto de Olhos Premium  ,DF,124.0,48.8,Alcon LenSx,520228,11/11/2026
+CLIN-1035, Instituto de Olhos Visão  ,PR,68.0,55.9,,153226,2026/12/21
+CLIN-1027, CENTRO DE CIRURGIA REFRATIVA LASER  ,RS,136.0,53.6,alcon ex500,744569,2025-06-06
+CLIN-1163, Centro de Cirurgia Refrativa Clínica  ,df,92.0,34.4,Zeiss MEL 90,464481,2026-09-21
+CLIN-1029, Clinica Oftalmologica Visão  ,PR,106.0,34.0,none,179573,2026/02/27
+CLIN-1030, Hospital de Olhos Sul  ,PR,92.0,43.1,Zeiss MEL 90,230376,
+CLIN-1031, Instituto de Olhos Premium  ,PR,203.0,62.8,J&J STAR S4 IR,465118,
+CLIN-1032, Clinica Oftalmologica Luz  ,RS,119.0,36.1,jj catalys,R$ 113.087,2026-02-23
+CLIN-1033, centro de cirurgia refrativa horizonte  ,rj,72.0,,alcon ex500,R$ 815.081,
+CLIN-1034, instituto de olhos são paulo  ,RS,157.0,17.3,Alcon LenSx,R$ 550.017,2026/10/21
+CLIN-1035, Oftalmo Clinic São Paulo  ,RS,65.0,32.2,alcon ex500,124742,2026-11-16
+CLIN-1036, Hospital de Olhos Sul  ,DF,129.0,73.6,Alcon WaveLight EX500,523446,
+CLIN-1037, Hospital de Olhos Visão  ,BA,31.0,51%,Zeiss MEL 90,186960,24/09/2025
+CLIN-1038, Hospital de Olhos Clínica  ,DF,60.0,49.8,Zeiss MEL 90,771600,2025/09/27
+CLIN-1039, Centro de Cirurgia Refrativa Laser  ,SP,128.0,59.3,zeiss visumax,789143,2026-03-04
+CLIN-1040, Oftalmo Clinic Clínica  ,SC,,,Alcon LenSx,,17/10/2025
+CLIN-1041, clinica oftalmologica luz  ,sp,153.0,49.3,Zeiss MEL 90,,03/07/2025
+CLIN-1042, INSTITUTO DE OLHOS HORIZONTE  ,SP,127.0,51.3,Zeiss VisuMax 800,261724,2026-04-23
+CLIN-1043, clinica oftalmologica horizonte  ,RS,114.0,72.5,Zeiss VisuMax 800,R$ 507.709,2026/02/21
+CLIN-1044, clinica oftalmologica luz  ,MG,106.0,63.7,jj catalys,74228,2025/07/13
+CLIN-1045, Hospital de Olhos Visão  ,DF,53.0,73.9,Zeiss MEL 90,486461,2026-12-06
+CLIN-1046, Hospital de Olhos Associados  ,MG,87.0,55%,none,291675,2026-06-19
+CLIN-1047, OFTALMO CLINIC LASER  ,BA,99.0,,alcon ex500,R$ 695.879,2026/04/07
+CLIN-1048, Oftalmo Clinic Luz  ,DF,167.0,74.5,alcon lensx,412835,2026/01/03
+CLIN-1049, clinica oftalmologica são paulo  ,DF,135.0,51.6,zeiss visumax,176464,2026-10-22
+CLIN-1050, Centro de Cirurgia Refrativa São Paulo  ,SC,40.0,70.1,J&J STAR S4 IR,421553,2026/01/07
+CLIN-1051, Oftalmo Clinic Sul  ,RJ,134.0,61.5,Alcon LenSx,164934,03/07/2026
+CLIN-1052, Hospital de Olhos São Paulo  ,SC,102.0,18.1,none,305453,2025/07/22
+CLIN-1053, instituto de olhos são paulo  ,DF,89.0,35.1,alcon ex500,326296,2026/03/26
+CLIN-1054, Instituto de Olhos Premium  ,BA,147.0,48.5,Zeiss MEL 90,658531,2026-06-02
+CLIN-1055, Hospital de Olhos Sul  ,SP,166.0,30.1,none,134947,2026/06/20
+CLIN-1056, OFTALMO CLINIC PREMIUM  ,SC,161.0,72.9,,R$ 148.017,2026/06/01
+CLIN-1062, Oftalmo Clinic Visão  ,RJ,,24.0,Alcon WaveLight EX500,162702,08/08/2026
+CLIN-1058, Centro de Cirurgia Refrativa Laser  ,BA,82.0,56%,none,,2026/03/22
+CLIN-1055, Instituto de Olhos Ocular  ,SP,106.0,33.6,Zeiss VisuMax 800,384507,2025-10-10
+CLIN-1060, CLINICA OFTALMOLOGICA ASSOCIADOS  ,DF,134.0,54.7,Zeiss MEL 90,771848,2025/03/13
+CLIN-1061, centro de cirurgia refrativa premium  ,PR,163.0,59%,Nenhum,797001,11/07/2025
+CLIN-1062, Oftalmo Clinic Clínica  ,DF,98.0,49%,none,201867,15/05/2025
+CLIN-1063, clinica oftalmologica clínica  ,SP,111.0,34.7,Alcon LenSx,R$ 846.775,06/02/2025
+CLIN-1064, Hospital de Olhos São Paulo  ,MG,70.0,59%,Alcon WaveLight EX500,753260,2026-07-04
+CLIN-1065, hospital de olhos laser  ,DF,66.0,74.8,Zeiss MEL 90,122039,
+CLIN-1066, INSTITUTO DE OLHOS HORIZONTE  ,DF,156.0,20.6,none,415784,28/06/2026
+CLIN-1067, Clinica Oftalmologica Laser  ,PR,181.0,45.5,alcon lensx,R$ 516.675,
+CLIN-1068, Centro de Cirurgia Refrativa Visão  ,RS,116.0,,,,2026-12-18
+CLIN-1069, Hospital de Olhos Visão  ,ba,165.0,72.1,J&J Catalys,724279,2025-07-06
+CLIN-1006, Centro de Cirurgia Refrativa Ocular  ,RJ,136.0,61.0,J&J STAR S4 IR,278598,2025-03-03
+CLIN-1071, Clinica Oftalmologica Premium  ,RJ,90.0,75.0,Alcon WaveLight EX500,,2026-08-26
+CLIN-1072, Clinica Oftalmologica São Paulo  ,MG,136.0,32.7,Nenhum,R$ 261.578,21/12/2026
+CLIN-1073, Hospital de Olhos Luz  ,RS,189.0,45.5,J&J Catalys,372603,05/02/2025
+CLIN-1074, Centro de Cirurgia Refrativa Visão  ,RS,118.0,59.3,Alcon WaveLight EX500,,
+CLIN-1075, Centro de Cirurgia Refrativa Associados  ,DF,190.0,54.7,J&J STAR S4 IR,340019,26/07/2026
+CLIN-1076, Instituto de Olhos Premium  ,PR,2.0,52.1,zeiss visumax,R$ 359.079,2026-11-20
+CLIN-1077, Clinica Oftalmologica Sul  ,MG,156.0,24.3,Alcon LenSx,489885,07/12/2026
+CLIN-1078, Instituto de Olhos Sul  ,MG,123.0,56.6,alcon ex500,548593,2026/06/10
+CLIN-1079, Centro de Cirurgia Refrativa Horizonte  ,RS,106.0,69.2,Alcon WaveLight EX500,152930,2026-10-26
+CLIN-1080, Instituto de Olhos Ocular  ,BA,124.0,17.6,Nenhum,,2025-07-12
+CLIN-1081, Clinica Oftalmologica São Paulo  ,RS,30.0,58.2,jj catalys,496265,2025/09/06
+CLIN-1082, Clinica Oftalmologica Premium  ,RS,110.0,51.6,J&J STAR S4 IR,165413,2025/12/15
+CLIN-1083, Centro de Cirurgia Refrativa Sul  ,DF,136.0,62.0,alcon ex500,371109,03/12/2026
+CLIN-1084, oftalmo clinic clínica  ,DF,186.0,29.4,Zeiss MEL 90,,08/05/2025
+CLIN-1085, Clinica Oftalmologica Sul  ,SC,96.0,62.1,Alcon WaveLight EX500,693172,03/07/2026
+CLIN-1086, instituto de olhos clínica  ,BA,83.0,26.6,alcon ex500,169152,2026/07/18
+CLIN-1087, Hospital de Olhos Premium  ,SC,97.0,49.2,none,161824,2026-07-18
+CLIN-1088, Clinica Oftalmologica Luz  ,PR,161.0,61.2,Alcon WaveLight EX500,304824,2026/09/20
+CLIN-1089, Clinica Oftalmologica Luz  ,PR,134.0,45.2,J&J Catalys,543200,2025/04/22
+CLIN-1090, Oftalmo Clinic Associados  ,ba,96.0,24.7,Nenhum,524979,2026/01/19
+CLIN-1091, Hospital de Olhos Sul  ,DF,143.0,51.3,Zeiss VisuMax 800,457771,26/06/2026
+CLIN-1092, Oftalmo Clinic Premium  ,BA,124.0,18.1,,500339,2025/04/17
+CLIN-1093, Oftalmo Clinic Horizonte  ,MG,163.0,37.3,Zeiss VisuMax 800,63309,08/10/2026
+CLIN-1094, Clinica Oftalmologica Laser  ,SP,88.0,57.7,,137683,2026/11/19
+CLIN-1095, Hospital de Olhos Horizonte  ,SC,105.0,22.5,alcon lensx,296142,2026-01-16
+CLIN-1096, Centro de Cirurgia Refrativa Horizonte  ,df,102.0,21%,J&J STAR S4 IR,747679,2026/02/04
+CLIN-1097, OFTALMO CLINIC LUZ  ,df,54.0,45.8,alcon lensx,527527,2026-08-26
+CLIN-1098, Centro de Cirurgia Refrativa Luz  ,MG,133.0,20.5,Nenhum,R$ 574.472,2026/02/15
+CLIN-1099, Instituto de Olhos Luz  ,mg,131.0,64.0,jj catalys,512779,2026/05/02
+CLIN-1100, Centro de Cirurgia Refrativa Sul  ,RS,120.0,70.8,Nenhum,R$ 91.084,2026/11/04
+CLIN-1101, Clinica Oftalmologica São Paulo  ,BA,109.0,38.8,none,469385,2026/12/08
+CLIN-1102, Centro de Cirurgia Refrativa Laser  ,SC,56.0,38.2,Nenhum,669684,14/09/2025
+CLIN-1103, OFTALMO CLINIC ASSOCIADOS  ,BA,101.0,25%,Nenhum,707329,2026/03/06
+CLIN-1104, Oftalmo Clinic Premium  ,DF,104.0,20.9,alcon ex500,R$ 508.056,2026-12-20
+CLIN-1105, Hospital de Olhos Luz  ,SP,83.0,35.1,alcon lensx,202627,2026-01-23
+CLIN-1106, Centro de Cirurgia Refrativa Associados  ,PR,112.0,12%,alcon lensx,385024,2026-02-19
+CLIN-1107, Centro de Cirurgia Refrativa Clínica  ,RS,138.0,43.3,Zeiss MEL 90,213113,2026-06-11
+CLIN-1108, Oftalmo Clinic Visão  ,RJ,204.0,60.5,Zeiss VisuMax 800,539182,2025/08/17
+CLIN-1109, Oftalmo Clinic Sul  ,RJ,127.0,51.9,alcon lensx,728701,2026-07-19
+CLIN-1110, Instituto de Olhos Premium  ,RJ,131.0,16.1,jj catalys,614620,2026/10/06
+CLIN-1111, Instituto de Olhos Associados  ,RS,116.0,24.0,alcon ex500,498709,2025-10-19
+CLIN-1112, Oftalmo Clinic Horizonte  ,SP,33.0,51.5,Zeiss VisuMax 800,432696,2026-04-10
+CLIN-1113, Hospital de Olhos São Paulo  ,SP,118.0,61.6,Zeiss MEL 90,815348,13/09/2026
+CLIN-1114, instituto de olhos luz  ,SC,122.0,22.3,Nenhum,476501,06/07/2026
+CLIN-1115, Hospital de Olhos Visão  ,PR,230.0,53.3,Zeiss MEL 90,590694,2026/11/06
+CLIN-1116, Clinica Oftalmologica Premium  ,MG,111.0,18.8,Zeiss VisuMax 800,594596,11/03/2025
+CLIN-1117, Clinica Oftalmologica Ocular  ,RJ,133.0,45.0,J&J STAR S4 IR,261489,2026-01-16
+CLIN-1118, Hospital de Olhos Laser  ,BA,118.0,52.9,zeiss visumax,815869,2026/09/17
+CLIN-1119, Clinica Oftalmologica São Paulo  ,PR,67.0,58.1,Alcon WaveLight EX500,R$ 288.799,23/07/2026
+CLIN-1120, instituto de olhos ocular  ,MG,171.0,15.1,,835808,2025-01-26
+CLIN-1121, Hospital de Olhos São Paulo  ,RS,153.0,49.2,Alcon WaveLight EX500,613920,2025-09-10
+CLIN-1122, Instituto de Olhos Clínica  ,SP,155.0,55.1,J&J Catalys,441202,2026/08/18
+CLIN-1123, Oftalmo Clinic Associados  ,DF,79.0,36.6,none,498390,27/09/2025
+CLIN-1124, Oftalmo Clinic Clínica  ,mg,183.0,47.6,alcon lensx,627331,2026/12/15
+CLIN-1125, Oftalmo Clinic Ocular  ,SC,56.0,45.5,J&J STAR S4 IR,R$ 508.781,2026/12/27
+CLIN-1126, Centro de Cirurgia Refrativa Clínica  ,RS,146.0,,Zeiss MEL 90,766608,15/01/2025
+CLIN-1127, Oftalmo Clinic São Paulo  ,BA,218.0,17.6,Nenhum,326107,2026-08-28
+CLIN-1128, CENTRO DE CIRURGIA REFRATIVA LUZ  ,DF,75.0,37.4,Zeiss MEL 90,167180,2025/12/19
+CLIN-1129, Hospital de Olhos Horizonte  ,PR,94.0,36.4,Nenhum,,2026-11-14
+CLIN-1130, Hospital de Olhos São Paulo  ,DF,124.0,,zeiss visumax,,2026-04-26
+CLIN-1131, oftalmo clinic laser  ,BA,,54.4,zeiss visumax,647870,2026-10-18
+CLIN-1132, Oftalmo Clinic Laser  ,RS,97.0,50%,none,R$ 712.361,19/05/2026
+CLIN-1133, CLINICA OFTALMOLOGICA ASSOCIADOS  ,rs,50.0,23.0,jj catalys,R$ 499.614,2026-11-27
+CLIN-1134, Centro de Cirurgia Refrativa Visão  ,BA,123.0,35.3,Zeiss VisuMax 800,R$ 137.381,02/07/2026
+CLIN-1135, Oftalmo Clinic Clínica  ,SP,72.0,64.8,J&J Catalys,241425,2025-03-08
+CLIN-1136, Instituto de Olhos Horizonte  ,DF,141.0,73.8,zeiss visumax,,13/11/2026
+CLIN-1137, Oftalmo Clinic Premium  ,RS,78.0,25.9,J&J STAR S4 IR,R$ 236.269,14/11/2026
+CLIN-1138, Oftalmo Clinic Sul  ,PR,189.0,60%,,R$ 314.234,2026/02/13
+CLIN-1173, instituto de olhos clínica  ,SC,84.0,17.2,alcon ex500,594953,15/06/2026
+CLIN-1140, OFTALMO CLINIC ASSOCIADOS  ,PR,105.0,62.5,Alcon WaveLight EX500,R$ 821.615,2025/12/03
+CLIN-1141, Oftalmo Clinic Sul  ,MG,156.0,33.9,,176352,2026-12-12
+CLIN-1142, Centro de Cirurgia Refrativa Laser  ,SP,64.0,38.9,alcon lensx,754517,2026-07-27
+CLIN-1143, Centro de Cirurgia Refrativa Laser  ,df,130.0,43.4,Nenhum,570430,2026/05/11
+CLIN-1144, Oftalmo Clinic Visão  ,SC,178.0,,Alcon LenSx,279796,26/08/2026
+CLIN-1145, Instituto de Olhos Premium  ,RJ,47.0,32.2,,R$ 97.330,2026/01/04
+CLIN-1146, Clinica Oftalmologica Premium  ,SC,128.0,17.9,Alcon WaveLight EX500,571838,2026-02-28
+CLIN-1147, Hospital de Olhos Premium  ,MG,131.0,31.4,zeiss visumax,R$ 640.949,2025/07/07
+CLIN-1148, Oftalmo Clinic São Paulo  ,SC,155.0,41.2,zeiss visumax,79838,06/05/2026
+CLIN-1149, Centro de Cirurgia Refrativa Luz  ,RS,64.0,41.4,alcon ex500,384307,
+CLIN-1150, Clinica Oftalmologica Sul  ,RS,60.0,35.3,alcon ex500,797138,2025-11-21
+CLIN-1022, Clinica Oftalmologica Visão  ,DF,143.0,56.5,Alcon LenSx,,
+CLIN-1152, Oftalmo Clinic Laser  ,RS,133.0,62.8,Alcon WaveLight EX500,199049,2026/04/14
+CLIN-1153, instituto de olhos horizonte  ,SC,131.0,20.0,none,747832,
+CLIN-1129, Centro de Cirurgia Refrativa Associados  ,DF,,40.8,Alcon LenSx,R$ 79.972,
+CLIN-1155, Instituto de Olhos Premium  ,MG,135.0,25.8,alcon lensx,R$ 532.226,2025/10/08
+CLIN-1156, Centro de Cirurgia Refrativa São Paulo  ,PR,89.0,21.2,J&J STAR S4 IR,318033,2025-12-11
+CLIN-1157, oftalmo clinic ocular  ,BA,130.0,32.7,Alcon WaveLight EX500,563049,2026-03-16
+CLIN-1158, Centro de Cirurgia Refrativa Ocular  ,sc,133.0,58.1,zeiss visumax,761407,04/02/2025
+CLIN-1159, Instituto de Olhos Visão  ,ba,87.0,41.6,J&J STAR S4 IR,R$ 453.370,2025-07-25
+CLIN-1160, Oftalmo Clinic Ocular  ,RJ,203.0,58.6,Alcon WaveLight EX500,R$ 697.051,2026/02/17
+CLIN-1161, Centro de Cirurgia Refrativa Luz  ,RS,141.0,51.9,Nenhum,634895,
+CLIN-1162, Clinica Oftalmologica Visão  ,SC,66.0,53.4,none,624878,2026/12/07
+CLIN-1163, Oftalmo Clinic Associados  ,PR,149.0,18.4,zeiss visumax,,22/10/2026
+CLIN-1164, Clinica Oftalmologica Ocular  ,SC,76.0,39.4,Zeiss MEL 90,R$ 589.520,2025-02-05
+CLIN-1165, Hospital de Olhos Luz  ,PR,155.0,60.0,zeiss visumax,R$ 538.763,2026-07-11
+CLIN-1166, Instituto de Olhos Visão  ,DF,172.0,16.9,,374392,2026/04/18
+CLIN-1167, Hospital de Olhos São Paulo  ,RS,83.0,55.7,,312341,2026/12/01
+CLIN-1168, Instituto de Olhos Horizonte  ,RJ,163.0,22.6,Alcon WaveLight EX500,126308,2025-10-17
+CLIN-1169, OFTALMO CLINIC OCULAR  ,SP,138.0,53.7,Zeiss VisuMax 800,431963,2025-01-26
+CLIN-1170, Hospital de Olhos Laser  ,DF,156.0,72.0,Zeiss MEL 90,55464,2025/08/21
+CLIN-1171, Instituto de Olhos Luz  ,PR,205.0,,J&J Catalys,407388,
+CLIN-1172, Oftalmo Clinic Clínica  ,MG,108.0,42.0,zeiss visumax,R$ 313.700,2025-06-11
+CLIN-1173, Centro de Cirurgia Refrativa Visão  ,SC,86.0,41.6,J&J STAR S4 IR,508301,2026/07/12
+CLIN-1174, hospital de olhos luz  ,BA,79.0,,Alcon LenSx,R$ 337.641,2026/02/01
+CLIN-1175, Instituto de Olhos Sul  ,MG,83.0,35%,jj catalys,R$ 584.228,
+CLIN-1176, Centro de Cirurgia Refrativa Associados  ,RJ,116.0,31.7,Alcon LenSx,177773,26/01/2025
+CLIN-1177, Centro de Cirurgia Refrativa São Paulo  ,BA,135.0,16.6,Alcon LenSx,788484,25/09/2026
+CLIN-1178, Centro de Cirurgia Refrativa Sul  ,rs,132.0,46.1,,665872,2026/11/18
+CLIN-1179, hospital de olhos visão  ,SC,157.0,22.1,alcon lensx,560969,2025/05/03
